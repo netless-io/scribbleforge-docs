@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./chunks/framework.DJBJE7_Z.js";const w=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"api/web/windowmanager.md","filePath":"api/web/windowmanager.md"}'),n={name:"api/web/windowmanager.md"};function r(o,i,s,c,d,p){return t(),a("div")}const _=e(n,[["render",r]]);export{w as __pageData,_ as default};

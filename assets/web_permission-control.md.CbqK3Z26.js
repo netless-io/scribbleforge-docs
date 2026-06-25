@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t}from"./chunks/framework.DJBJE7_Z.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/permission-control.md","filePath":"web/permission-control.md"}'),r={name:"web/permission-control.md"};function s(n,a,c,i,p,m){return t(),o("div")}const d=e(r,[["render",s]]);export{_ as __pageData,d as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DJBJE7_Z.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"internal/player-spec.md","filePath":"internal/player-spec.md"}'),r={name:"internal/player-spec.md"};function n(c,p,s,o,l,i){return a(),t("div")}const m=e(r,[["render",n]]);export{d as __pageData,m as default};

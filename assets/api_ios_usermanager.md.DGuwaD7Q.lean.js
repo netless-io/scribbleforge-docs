@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r}from"./chunks/framework.DJBJE7_Z.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"api/ios/usermanager.md","filePath":"api/ios/usermanager.md"}'),t={name:"api/ios/usermanager.md"};function s(o,n,i,c,p,m){return r(),a("div")}const f=e(t,[["render",s]]);export{d as __pageData,f as default};

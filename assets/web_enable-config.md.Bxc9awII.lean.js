@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DJBJE7_Z.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/enable-config.md","filePath":"web/enable-config.md"}'),n={name:"web/enable-config.md"};function o(c,r,s,i,f,l){return a(),t("div")}const d=e(n,[["render",o]]);export{_ as __pageData,d as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./chunks/framework.DJBJE7_Z.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/event-listening.md","filePath":"web/event-listening.md"}'),a={name:"web/event-listening.md"};function s(i,r,o,c,p,_){return n(),t("div")}const m=e(a,[["render",s]]);export{l as __pageData,m as default};

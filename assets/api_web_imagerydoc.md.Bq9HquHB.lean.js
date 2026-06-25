@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./chunks/framework.DJBJE7_Z.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"api/web/imagerydoc.md","filePath":"api/web/imagerydoc.md"}'),r={name:"api/web/imagerydoc.md"};function o(c,i,s,n,d,p){return t(),a("div")}const f=e(r,[["render",o]]);export{_ as __pageData,f as default};

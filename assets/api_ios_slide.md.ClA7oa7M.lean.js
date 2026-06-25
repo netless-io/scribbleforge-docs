@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DJBJE7_Z.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"api/ios/slide.md","filePath":"api/ios/slide.md"}'),s={name:"api/ios/slide.md"};function i(o,r,c,n,d,p){return a(),t("div")}const m=e(s,[["render",i]]);export{_ as __pageData,m as default};

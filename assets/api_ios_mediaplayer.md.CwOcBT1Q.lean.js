@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./chunks/framework.DJBJE7_Z.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"api/ios/mediaplayer.md","filePath":"api/ios/mediaplayer.md"}'),r={name:"api/ios/mediaplayer.md"};function i(o,s,p,c,n,d){return t(),a("div")}const _=e(r,[["render",i]]);export{l as __pageData,_ as default};

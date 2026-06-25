@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.DJBJE7_Z.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"web/rtc-mixing.md","filePath":"web/rtc-mixing.md"}'),a={name:"web/rtc-mixing.md"};function c(n,i,o,s,m,p){return r(),t("div")}const f=e(a,[["render",c]]);export{d as __pageData,f as default};
